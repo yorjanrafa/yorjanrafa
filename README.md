@@ -1,4 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Sandoval Yorjan</h2>
+
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='39' align="left"/><h2 align="left">Hey there! I'm Sandoval Yorjan</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Sandoval Yorjan -->
 
@@ -20,30 +22,17 @@
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-
-
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-
 ![Tailwindcss](https://img.shields.io/badge/tailwincss-%2335495e.svg?style=for-the-badge&logo=tailwindcss&logoColor=%234FC08D)&nbsp;
-
 ![Swagger](https://img.shields.io/badge/-Nodejs-%23Clojure?style=for-the-badge&logo=nodejs&logoColor=white)&nbsp;
-
 ![Dart](https://img.shields.io/badge/Dart-0a6db9?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-
 ![Flutter](https://img.shields.io/badge/Flutter-%2300599C.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-
 ![Django](https://img.shields.io/badge/Django-%234285F4.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-
 ![lua](https://img.shields.io/badge/lua-%23F24E1E.svg?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
-
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
 ![Bash](https://img.shields.io/badge/BASH-%236DB33F.svg?style=for-the-badge&logo=zsh&logoColor=white)&nbsp;
 
 
@@ -58,13 +47,9 @@
 ### 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-
 ![LINUX](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-
 &nbsp;
 ![Neovim](https://img.shields.io/badge/Neovim-00bd36.svg?style=for-the-badge&logo=neovim&logoColor=white)&nbsp;
 ![firefox](https://img.shields.io/badge/Firefox-FE7A16.svg?style=for-the-badge&logo=firefox&logoColor=white)&nbsp;
