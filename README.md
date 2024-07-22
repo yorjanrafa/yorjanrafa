@@ -1,7 +1,3 @@
-
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='39' align="left"/><h2 align="left">Hey there! I'm Sandoval Yorjan</h2>
-
 <!-- ## 👋 &nbsp;Hey there! I'm Sandoval Yorjan -->
 
 ### 👨🏻‍💻 &nbsp;About Me
